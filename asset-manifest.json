@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/Cart-APP-React/static/js/main.f27e3482.js",
+    "static/media/-1-product.webp": "/Cart-APP-React/static/media/10686354557628304-1-product.00bf8ca2603352e0cfad.webp",
+    "static/media/876661122392077-1-product.webp": "/Cart-APP-React/static/media/876661122392077-1-product.8c566b01d48c7b6964f0.webp",
+    "static/media/-2-product.webp": "/Cart-APP-React/static/media/18532669286405344-2-product.783be0ba5d624b65b697.webp",
+    "static/media/876661122392077-2-product.webp": "/Cart-APP-React/static/media/876661122392077-2-product.fdcfc2361538ab8da20a.webp",
+    "static/media/-1-cart.webp": "/Cart-APP-React/static/media/10686354557628304-1-cart.db808de9790b1faa0c7b.webp",
+    "static/media/876661122392077-1-cart.webp": "/Cart-APP-React/static/media/876661122392077-1-cart.f8dd87bd515537dd31d6.webp",
+    "index.html": "/Cart-APP-React/index.html",
+    "main.f27e3482.js.map": "/Cart-APP-React/static/js/main.f27e3482.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f27e3482.js"
+  ]
+}
